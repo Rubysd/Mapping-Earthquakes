@@ -118,4 +118,14 @@ Your final map should look similar to the following image:
 
 1. A third map tile layer is created.
 
+![Captura de pantalla (909)](https://user-images.githubusercontent.com/86340630/138031243-fa8a4175-df29-4dd7-8922-fb8da3116ffd.png)
+
+2. The third map is added to the overlay object.
+
+![Captura de pantalla (910)](https://user-images.githubusercontent.com/86340630/138031379-8ed38398-6f79-4e37-a93c-a32942f8bcc6.png)
+
+3. All the earthquake data and tectonic plate data are displayed on the all maps of the webpage.
+
+![Captura de pantalla (912)](https://user-images.githubusercontent.com/86340630/138031701-e46069c3-e28b-40c0-81ae-3ddc17708246.png)
+
 
