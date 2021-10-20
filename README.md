@@ -51,7 +51,7 @@ The earthquake data and tectonic plate data displayed on the map when the page l
 4. The earthquake data and tectonic plate data displayed on the map when the page loads.
 
 ![Captura de pantalla (895)](https://user-images.githubusercontent.com/86340630/137026525-aae99937-cfe5-458b-9a0d-c5d5a70cbc3d.png)
-![image](https://user-images.githubusercontent.com/86340630/137026554-df80b3f0-0cc8-4714-9665-df7c4fe99672.png)
+![Captura de pantalla (905)](https://user-images.githubusercontent.com/86340630/138030334-3ecbabc4-8416-40ac-b022-0fc983ac79df.png)
 
 # Deliverable 2:
 
