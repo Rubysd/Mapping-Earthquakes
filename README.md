@@ -97,8 +97,7 @@ Your final map should look similar to the following image:
 4. All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off.
 
 ![Captura de pantalla (903)](https://user-images.githubusercontent.com/86340630/137028239-69d0fb56-6ada-4c82-9e46-315c27843755.png)
-![image](https://user-images.githubusercontent.com/86340630/137028270-d8e21f7a-c35a-4762-a039-5afe3b44a7da.png)
-
+![Captura de pantalla (907)](https://user-images.githubusercontent.com/86340630/138030539-8538b27b-d4e1-4915-abdf-5b64f0cb06a2.png)
 # Deliverable 3:
 
 Add an Additional Map
