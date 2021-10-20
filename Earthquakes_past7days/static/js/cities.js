@@ -30,6 +30,3 @@ let cities = [{
     population: 1660272
   }
   ];
-© 2021 GitHub, Inc.
-Terms
-Privacy
